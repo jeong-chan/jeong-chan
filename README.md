@@ -1,19 +1,38 @@
 <div align= center><h1> Hi, Chanwoo Jeong's Profile 😊👋</h1></div>
-<div allign= center>
+<div class=text-justify>
   
   
  <div>
   <h3> Info </h3>
   👨‍🎓 Major in Computer Engineering at CWNU(2015.03 ~ 2022.02) <br>
   💻 SSAFY 7th (2022.01 ~ )
-    <li>blog: </li>
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeong-chan&show_icons=true)
   </div>
   
-  <div>
+ 
     
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeong-chan&show_icons=true)
+      
+ 
+      
+    
 
-  </div>
+  
+  
+  
+  
+</div>
+
+<div class="text-justify">
+<div class="pull-left">
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong_2240)](https://solved.ac/jeong_2240)
+  
+</div>
+  
+<div class="pull-right">
+</div>
+Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
 </div>
 ****
 
