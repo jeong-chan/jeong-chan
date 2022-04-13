@@ -42,7 +42,7 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white)
-
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 <hr>
 <h3> Algorithm </h3>
 
