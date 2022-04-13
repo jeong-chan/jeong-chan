@@ -17,19 +17,29 @@
 <br><br>
 
 <hr>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Contact:<br>
-  <img src="https://img.shields.io/badge/Contact-색상코드?style=flat-square&logo=mail&logoColor=green"/>
+<h3> ✏ Once I've Used<br></h3>
+<h4> Programming Language </h4>
 
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong_2240)](https://solved.ac/jeong_2240)
-<img src="http://mazandi.herokuapp.com/api?handle=jeong_2240&theme=warm"/>
+<h4> tools </h4>
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=EclipseIDE&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+
+<hr>
+<h3> Algorithm </h3>
+
+<img align= "left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong_2240" width="45%">
+<img align= "right" src="http://mazandi.herokuapp.com/api?handle=jeong_2240&theme=warm" width="45%"/>
 
 
