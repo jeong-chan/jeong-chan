@@ -20,7 +20,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
  <a href="[https://jcob-firststep1110.tistory.com/]" target="_blank"><img align="center" src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
  <a href="[https://www.instagram.com/j._.cobb/]" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  
-  <a href="[mailto:jeong_2240@naver.com/]" target="_blank"><img align="center" src="https://img.shields.io/badge/Mail-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jeong_2240@naver.com"></a>
+  <a href="mailto:jeong_2240@naver.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Mail-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jeong_2240@naver.com"></a>
 
   <div>
   <br>
