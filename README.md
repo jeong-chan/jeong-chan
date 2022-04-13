@@ -15,7 +15,7 @@
  <div align="center">
   <br>
   
-  <a href="https://jcob-firststep1110.tistory.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Blog-FF5722.svg?style=for-the-badge&logo=Telegraph&logoColor=white"></a>
+  <a href="https://jcob-firststep1110.tistory.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Blog-FF5722.svg?style=for-the-badge&logo=Telegraph&logoColor=white"></a>
  <a href="https://www.instagram.com/j._.cobb/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="mailto:jeong_2240@naver.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Mail-03C75A.svg?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jeong_2240@naver.com"></a>
 
